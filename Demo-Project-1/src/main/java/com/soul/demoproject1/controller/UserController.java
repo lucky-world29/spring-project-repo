@@ -1,7 +1,7 @@
 package com.soul.demoproject1.controller;
 
-import com.example.demoproject1.entity.User;
-import com.example.demoproject1.service.UserService;
+import com.soul.demoproject1.entity.User;
+import com.soul.demoproject1.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
